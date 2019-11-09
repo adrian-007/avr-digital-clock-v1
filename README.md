@@ -1,4 +1,4 @@
-## ATMega32-based digital clock with alarm
+## ATmega32-based digital clock with alarm
 
 Source code of firmware for custom-made digital clock.
 
